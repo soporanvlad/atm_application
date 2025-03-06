@@ -1,2 +1,19 @@
-# atm_application
-This project involves the development of an ATM application that allows users to perform basic banking transactions such as checking balances, withdrawing, and depositing funds. It simulates real-world ATM functionality with a user-friendly interface and secure transaction handling.
+# ATM Project
+
+## Overview
+This project is a simulation of an Automated Teller Machine (ATM) system. It allows users to perform various banking operations such as checking balances, withdrawing cash, depositing funds, and transferring money.
+
+## Features
+- User authentication (PIN-based login)
+- Account balance inquiry
+- Cash withdrawal
+- Cash deposit
+- Money transfer between accounts
+- Transaction history tracking
+- Secure session management
+
+## Technologies Used
+- Programming Language: C++
+
+## License
+This project is open-source and available under the MIT License.
